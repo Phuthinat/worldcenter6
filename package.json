@@ -10,7 +10,7 @@
     "slot pg auto pg wallet เว็บตรง ขั้นต่ำ 1 บาท ",
     "สล็อตเว็บตรง"
   ],
-  "repository": "https://github.com/atom/worldcenter6",
+  "repository": "https://github.com/Phuthinat/worldcenter6",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
